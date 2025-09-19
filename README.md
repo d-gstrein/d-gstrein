@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm David 👋
 
-<!--
-**d-gstrein/d-gstrein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer & SEO from Partschins, Italy**
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development**: PHP/Laravel specialist with 12+ years of experience
+- **E-Commerce Solutions**: Custom e-com solutions
+- **SEO & Conversion Optimization**: Helping businesses grow online
+- **SaaS Development**: Currently focusing on building my own products 
+
+## 🌍 Beyond Code
+
+- 🏔️ Living in the beautiful Meran region in South Tyrol
+- 🏍️ Motorcycle enthusiast
+- ✈️ Travel lover
+- 📈 Active stock trader and market observer
+- 🎯 Minimalist approach: "Keep it simple"
+
+## 📈 GitHub Stats
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-gstrein&show_icons=true&theme=dark&count_private=true)
+
+## 🤝 Let's Connect
+
+- 📧 Reach out for collaborations or just to say hi
