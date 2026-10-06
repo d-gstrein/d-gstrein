@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**d-gstrein/d-gstrein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **BZ - Italy** | 🚀 **I like to build, code, read, travel.**
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚵 **[bikemeran.it](https://bikemeran.it)** - cycling tourism around Meran, Vinschgau & Passeier
+- 👥 **[clubsoftware.it](https://clubsoftware.it)** - management software for clubs & associations
+- 🚌 **[fahrplan.it](https://fahrplan.it)** - bus, train & cable car timetables for South Tyrol (DE/IT)
+- ⛴️ **[ferrytable.com](https://ferrytable.com)** - ferry timetables, starting with Croatia
+- 🚜 **[maschinenkreis.com](https://maschinenkreis.com)** - machine sharing & yearly billing for farmer co-ops
+- 🧵 **[planfaden.com](https://planfaden.com)** - lean course & room management for education providers
+- 🚲 **[Verleihtool](https://www.verleihtool.com)** - SaaS for professional bike rental shops
+- 🏔️ **[visitvinschgau.com](https://visitvinschgau.com)** - travel portal for Vinschgau: Waalwege, hikes & sights
+- 🛠️ **[websystems.io](https://websystems.io)** - web dev + SEO, pagespeed, error & ranking monitoring
