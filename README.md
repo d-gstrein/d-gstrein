@@ -8,6 +8,7 @@
 - 👥 **[clubsoftware.it](https://clubsoftware.it)** - management software for clubs & associations
 - 🚌 **[fahrplan.it](https://fahrplan.it)** - bus, train & cable car timetables for South Tyrol
 - ⛴️ **[ferrytable.com](https://ferrytable.com)** - ferry timetables, starting with Croatia
+- 🎁 **[gutscheintool.io](https://gutscheintool.io)** - sell & redeem gift vouchers online, for small businesses
 - 🚜 **[maschinenkreis.com](https://maschinenkreis.com)** - machine sharing & yearly billing for farmer co-ops
 - 🧵 **[planfaden.com](https://planfaden.com)** - lean course & room management for education providers
 - 🚲 **[Verleihtool](https://www.verleihtool.com)** - SaaS for professional bike rental shops
