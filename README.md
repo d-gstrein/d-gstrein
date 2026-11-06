@@ -6,6 +6,7 @@
 
 - 🚵 **[bikemeran.it](https://bikemeran.it)** - cycling tourism around Meran, Vinschgau & Passeier
 - 👥 **[clubsoftware.it](https://clubsoftware.it)** - management software for clubs & associations
+- 🪵 **[dajuwood.com](https://dajuwood.com)** - online shop for handmade wooden wallets & accessories, with engraving
 - 🚌 **[fahrplan.it](https://fahrplan.it)** - bus, train & cable car timetables for South Tyrol
 - ⛴️ **[ferrytable.com](https://ferrytable.com)** - ferry timetables, starting with Croatia
 - 🎁 **[gutscheintool.io](https://gutscheintool.io)** - sell & redeem gift vouchers online, for small businesses
